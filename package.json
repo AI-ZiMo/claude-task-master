@@ -1,5 +1,5 @@
 {
-	"name": "task-master-ai",
+	"name": "task-master-ai-zimo",
 	"version": "0.11.0",
 	"description": "A task management system for ambitious AI-driven development that doesn't overwhelm and confuse Cursor.",
 	"main": "index.js",
